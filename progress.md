@@ -250,3 +250,43 @@ within 14 days?**
 1. **Sign the lock** in `docs/validation/decision-rule.md` before recruiting.
 2. Recruit five participants, **at least three involved in winning work**.
 3. Run the interviews; wait the full 14 days before computing anything.
+
+---
+
+## 2026-09-09 (manager pack) — Ready for a 30-minute conversation
+
+**Status: 📋 No application code. Manager validation pack prepared.**
+
+Built a cut-down, manager-facing version of the validation experiment:
+`docs/validation/manager-pack.md` (5 evidence cards) and
+`docs/validation/manager-interview-sheet.md` (one page, questions + capture grid
++ private interpretation notes).
+
+### All records re-verified live before printing
+Re-queried the PlanIt API on 9 September 2026. **All eight target applications
+still Undecided.** Re-verification also produced new detail not in the original
+test:
+- **26/00898/DISC** (RR Sinfin A) — received 13 Jul 2026, agent **AECOM**;
+  parent permission 26/00060/FUL is *"Remediation works, and realignment and
+  installation of ground services to facilitate the future development"*.
+- **P/2026/00884** (Alpha Anodizing) — received 14 Aug 2026, decision
+  **PENDING**; full scheme is *"demolition of commercial works to facilitate the
+  erection of 8 No. dwellinghouses"*.
+- **PL/2026/01382/DIS** (JLR Lode Lane) — agent is **WSP** (not previously
+  captured); parent approval PL/2025/01396/PPFL dated 9 Apr 2026.
+- **PL/2026/01052/DIS** (Mell Square) — agent Turley; **consultation closes
+  22 Sep 2026**.
+- **DMOT/2026/0939** (Woodville, Large) — **consultation closes 23 Sep 2026**.
+
+### Pack contents
+Cards: RR Sinfin A · Alpha Anodizing · Mell Square (control) · JLR Lode Lane ·
+HS2/EKFB tender. No tonnages, no revenue figures; the single £1m figure is
+quoted directly from the published EKFB notice. FACT and INTERPRETATION are
+separated on every card. Live source links on every card so the manager can
+verify in the room.
+
+### Open decisions needing a human
+1. Run the conversation. Ask awareness **before** revealing interpretation.
+2. Wait 14 days before judging — the revealed-preference test.
+3. Two consultation deadlines fall on 22–23 Sep 2026 if anything is to be acted
+   on quickly.
