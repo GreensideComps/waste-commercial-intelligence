@@ -205,3 +205,48 @@ advantage is real and demonstrated.
    portal returned HTTP 503 during this test, so document access is genuinely
    uncertain.
 3. Confirm NRS's economic haul radius — does Derby work? Mansfield?
+
+---
+
+## 2026-09-09 (validation kit) — Ready to run. Next action: RUN ANOTHER TEST
+
+**Status: 📋 VALIDATION KIT COMPLETE. No application code. Awaiting five
+customer interviews.**
+
+Built the full five-customer validation experiment in `docs/validation/`.
+Start at `docs/validation/README.md`.
+
+### Materially changed the decision rule before locking it
+Reviewed the proposed thresholds and found **five defects**, two critical
+(`docs/validation/decision-rule.md`):
+1. **No unit of analysis** — 5 packs × 5 cards means each lead is seen by only
+   2–3 people; "≥4 unknown" was undefined. Now requires **unanimity** among
+   viewers of a lead.
+2. **Unknown and actionable were counted independently** — creating a
+   false-positive path where 4 useless-but-new leads plus 3 already-being-pursued
+   leads would trigger BUILD. Actionability is now measured **only on the
+   unknown subset**.
+3. **"≥1 WTP signal" was too weak and had no floor.** Now requires 2+
+   independent prices and one **≥£500/month**, derived from the £1m ARR maths.
+4. Control failure was under-specified — now 1 failure = discard and replace,
+   2+ = abort.
+5. **n=5 cannot measure a rate** — accepted as structural. The test is a
+   screening test; the ambiguous middle now resolves to a *specific* action
+   rather than an open-ended "validate further" loop.
+
+Also added the missing branch the brief correctly suspected: **category C
+("knew the project, not the waste opportunity")**. If most new leads are C, the
+product's value is **interpretation, not discovery**, Barbour becomes a supplier
+rather than a competitor, and the route is CHANGE THE PRODUCT — not KILL.
+
+### Locked primary metric
+**NNAL (Net New Actionable Leads)** out of 9 non-control leads: unanimously new,
+4/4 actionable, not already pursued, within haul radius.
+**BUILD at ≥3 plus a ≥£500/month price. KILL at 0, or ≤2 with no pattern.**
+Tie-breaker that outranks all stated answers: **did anyone contact a counterparty
+within 14 days?**
+
+### Open decisions needing a human
+1. **Sign the lock** in `docs/validation/decision-rule.md` before recruiting.
+2. Recruit five participants, **at least three involved in winning work**.
+3. Run the interviews; wait the full 14 days before computing anything.
