@@ -56,3 +56,51 @@ should not start until this plan is reviewed and Gate 1 is scheduled.**
 ### Not done, deliberately
 No schema, no migrations, no ingestion code, no UI. Phase 0 in
 `docs/roadmap.md` starts after review.
+
+---
+
+## 2026-09-09 (later) — Venture opportunity research complete, awaiting review
+
+**Status: 📋 RESEARCH — no application code. Recommendation requires approval
+before any build.**
+
+Separate workstream from the NRS intelligence platform: research to identify a
+B2B AI/software business buildable with Claude Code, avoiding markets with
+entrenched incumbents.
+
+### Done
+- 35 candidate opportunities generated across UK sectors; all scored on 10
+  dimensions (`docs/opportunity-scorecard.md`).
+- Aggressive competitor research on the top 10 — killed 14 candidates on
+  evidence, including several that looked attractive
+  (`docs/competitive-landscape.md`).
+- **Recommendation: waste permit conformance & duty-of-care assurance**
+  ("PermitGuard") — `docs/final-recommendation.md`.
+
+### Key evidence
+- **Defra Digital Waste Tracking is mandatory for permitted waste receiving
+  sites from 1 October 2026**, extending to carriers/brokers/dealers April 2027.
+- **120+ Defra-approved DWT providers already exist** → do not build capture.
+  Defra's provider page confirms approval covers recording and transmitting
+  mandated fields only, with **no permit checking or validation**.
+- Off-permit acceptance is a permit breach; CCS bands drive subsistence charges
+  from −5% (Band A) to **+200% (Band F)**. Duty-of-care breach under s.34 EPA
+  1990 is criminal — unlimited fine, up to 2 years.
+- Measured from the register: **8,778 effective permits, 5,304 licence holders,
+  4,347 holding a single site** (the ICP). **37.1% are Standard Rules permits
+  covered by just 68 published documents** — so 37% national coverage is 68
+  extractions, not 3,258.
+- 22 targeted searches found **no product** validating movements against
+  permitted waste codes. Nearest: EcoComply (permit obligations, not
+  transactions).
+
+### Open decisions needing a human
+1. **Phase 0 validation** — 5 operator conversations before any code. If
+   off-permit acceptance is not a live worry, stop.
+2. Approve or reject the recommendation, and whether it runs alongside or
+   instead of the NRS platform.
+3. EA Conditional Licence review before any resale of register-derived data.
+
+### Not done, deliberately
+No code. Phase 0 of the roadmap in `docs/final-recommendation.md` is five
+conversations, not a build.
