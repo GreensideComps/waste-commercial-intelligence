@@ -66,6 +66,18 @@ until it has proven itself.
 - Rebuilding a projects/companies database. We consume; we do not curate a
   market database.
 
+## 4a. ⚠️ Reality check from the Ten Leads Test (2026-09-09)
+
+The worked example in this document ("8,000–15,000 tonnes … £300k–£500k") was
+**not achievable** in the actual test. No record in a 442-candidate pool
+contained site area, depth, volume or tonnage. Those figures live only inside
+submitted planning documents, which require per-LPA document retrieval that has
+not yet been proven to work.
+
+Until that spike succeeds, treat the deliverable as **a ranked, evidenced
+alert with a named next action** — not a quantified financial opportunity.
+See `docs/ten-leads-analysis.md`.
+
 ## 5. The MVP objective and its gate
 
 > **Find 10 genuinely commercially interesting hazardous/specialist waste

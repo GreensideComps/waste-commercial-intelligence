@@ -148,3 +148,60 @@ carries a superseded banner.
 1. Accept or reject the downgrade.
 2. If proceeding with commercial intelligence, run the Ten Leads Test in
    `docs/roadmap.md` — it remains the cheapest decisive test available.
+
+---
+
+## 2026-09-09 (Ten Leads Test) — VALIDATE FURTHER
+
+**Status: 📋 RESEARCH. No application code. Decision: VALIDATE FURTHER.**
+
+Ran the Ten Leads Test against live public data. Full results in
+`docs/ten-leads-test.md`, method in `docs/ten-leads-candidates.md`, analysis and
+decision in `docs/ten-leads-analysis.md`, next experiment in
+`docs/next-validation-experiment.md`. Raw pool: `docs/data/ten-leads-pool.csv`.
+
+### What worked
+- **PlanIt API verified working.** ~4,041 records scanned across 10 search
+  terms; **442 candidates inside 110 km of Meriden** for May–Sept 2026; run
+  time under 10 minutes.
+- **Contracts Finder OCDS partially worked** (heavy 429 rate limiting) and
+  produced the single best lead: **EKFB JV "Waste Management Services", £1m,
+  published 26 Aug 2026**, for HS2 C23 — whose northern end at Long Itchington
+  Wood is ~25 km from Meriden.
+- **Discovery advantage demonstrated, not asserted:** a general web search could
+  **not** locate Derby application 26/00060/FUL (Rolls-Royce Sinfin A
+  remediation consent); PlanIt returned it instantly. Alpha Anodizing (heavy
+  metals, live remediation condition, 38 km) was invisible to targeted search.
+- **Timing thesis confirmed:** 6 of 10 leads are at condition-discharge stage —
+  contamination confirmed, strategy exists, works not started.
+
+### What broke
+- ⚠️ **Tonnage is not derivable.** **No record in 442 contains site area, depth,
+  volume or tonnage.** The PRD's "8,000–15,000 t / £300k–£500k" example is not
+  achievable from these sources. PRD annotated accordingly.
+- ⚠️ **The buyer is missing 61% of the time** — only 173 of 442 records carry a
+  named agent.
+- ⚠️ **90.3% of the pool is "Small"** — mostly residential infill. Only 38
+  Medium/Large, implying ~110–130 commercially material events per year in the
+  catchment.
+- ⚠️ **Obscurity and value are negatively correlated.** The leads NRS is least
+  likely to know are mostly the smallest. Rolls-Royce Sinfin A is the only lead
+  that is both obscure and substantial.
+- ⚠️ **Verification/validation reports are a systematic false positive** — the
+  waste has already moved. ~45 pool candidates had to be excluded.
+- ⚠️ **Barbour ABI would produce ~5 of the 10, and would do the valuable ones
+  better** (contacts, contract stage).
+
+### Decision: VALIDATE FURTHER
+Not BUILD — the flagship output (tonnage/value) is unproven, the buyer is often
+absent, and the awareness hypothesis is untested. Not KILL — the discovery
+advantage is real and demonstrated.
+
+### Open decisions needing a human
+1. **Run the NRS awareness experiment** in `docs/next-validation-experiment.md`
+   — 5 conversations, one week, no code. Agree the decision table *before*
+   starting.
+2. **Run the tonnage feasibility spike** (1 day, 3 LPAs) in parallel. Derby's
+   portal returned HTTP 503 during this test, so document access is genuinely
+   uncertain.
+3. Confirm NRS's economic haul radius — does Derby work? Mansfield?
