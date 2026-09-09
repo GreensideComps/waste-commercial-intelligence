@@ -1,5 +1,15 @@
 # Final Recommendation
 
+> ## ⚠️ SUPERSEDED — 2026-09-09
+> This recommendation **did not survive adversarial review**. Analysis of the EA
+> 2024 Compliance Rating dataset found 90.8% of waste sites in Band A/B (no
+> detected non-compliance), an ICP that is 21% sole traders and otherwise large
+> utilities/councils, enforcement aimed at illegal rather than permitted
+> operators, and a £26/year regulatory price anchor. See
+> **`docs/stress-test-permit-conformance.md`**. Permit conformance is downgraded
+> from #1 to #3. Retained for the reasoning and the market data, which remain
+> valid.
+
 ---
 
 # ⭐ PermitGuard — waste permit conformance & duty-of-care assurance

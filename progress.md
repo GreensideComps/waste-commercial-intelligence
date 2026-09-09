@@ -104,3 +104,47 @@ entrenched incumbents.
 ### Not done, deliberately
 No code. Phase 0 of the roadmap in `docs/final-recommendation.md` is five
 conversations, not a build.
+
+---
+
+## 2026-09-09 (later still) — Permit conformance stress-tested and downgraded
+
+**Status: 📋 RESEARCH. The prior recommendation is superseded.**
+
+Adversarial review of the permit conformance opportunity, with instructions to
+disprove it. It did not survive. Full analysis in
+`docs/stress-test-permit-conformance.md`; `docs/final-recommendation.md` now
+carries a superseded banner.
+
+### What killed it
+- **90.8% of waste and landfill sites are in EA compliance Band A or B** — no
+  detected non-compliance. Measured from the 2024 Compliance Rating dataset
+  (14,139 sites), not estimated. The product prevents a problem nine in ten
+  buyers have regulator-issued evidence they do not have.
+- **The ICP does not exist as described.** Of 5,287 operators with 1–10 sites,
+  **21% are named individuals** (sole traders), and the multi-site end is
+  Network Rail, National Grid, United Utilities, councils and water companies —
+  enterprise procurement, not SME SaaS. Very little in between.
+- **Enforcement targets illegal operators**: 1,205 illegal sites shut down vs.
+  122 prosecutions overall, ~7,283 inspections across ~14,139 sites, and the OEP
+  found **63% of issues identified at inspection go unresolved**.
+- **Price anchor of ~£26/year** for DWT registration against a proposed
+  £150–400/month.
+- **Self-incrimination is structural, not a messaging problem** — the core
+  output is a discoverable record of the operator's own breaches.
+- We are **late**: DWT went live April 2026, mandatory 1 October 2026, 120+
+  approved providers already chosen.
+
+### What survives
+- The permit dataset is still real and buildable (68 SR documents cover 37% of
+  permits) — an asset, but not a product sold to operators.
+- The EA describes **mirror-entry misclassification** as one of its most common
+  findings, which points at WM3 classification rather than permit conformance.
+
+### Revised ranking for a £50k bet
+1. Waste Commercial Intelligence · 2. WM3 Assistant · 3. Permit Conformance
+
+### Open decisions needing a human
+1. Accept or reject the downgrade.
+2. If proceeding with commercial intelligence, run the Ten Leads Test in
+   `docs/roadmap.md` — it remains the cheapest decisive test available.
