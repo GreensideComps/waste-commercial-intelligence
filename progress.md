@@ -328,6 +328,27 @@ doesn't interpret — confirmed by an actual user without being led there.
   Guard against exactly this moment — the risk of over-weighting one good
   result right after hearing it.
 
+### 🎯 Revealed preference — same day, not day 14
+A contact was actually rung, same day as the meeting — before the 14-day
+window even properly opened. This is the strongest category of evidence the
+whole test was designed to surface (stated intent vs. actual action). **Which
+contact — Alpha Anodizing, or AECOM (RR Sinfin A) / WSP (JLR) — to be
+confirmed and logged precisely.**
+
+### Second participant — Jason (commercial director), same day
+Jason — the commercial director with prior revealed spend on waste
+tonnage-by-county data (see earlier entry) — has seen leads and expressed
+interest, described it as having value, and said he would pay regularly for a
+service like this.
+
+⚠️ **No figure named yet.** Per the locked WTP grading, "would pay" without a
+number is **🔴 None**, not a positive signal — the same standard applied
+throughout this test, including to the manager's "value" comment earlier
+today. Next step: ask Jason directly what the tonnage-by-county data cost him,
+and whether this would be worth similarly or more — anchored to a real prior
+purchase rather than a hypothetical. Also get: who signs it off, and desired
+frequency.
+
 ### 14-day follow-up window
 **Started 2026-09-10. Review no earlier than ~2026-09-24.** Whether anyone
 actually contacts a counterparty on Rolls-Royce/Sinfin A, Alpha Anodizing or
