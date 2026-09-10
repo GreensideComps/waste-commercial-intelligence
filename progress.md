@@ -333,6 +333,29 @@ doesn't interpret — confirmed by an actual user without being led there.
 actually contacts a counterparty on Rolls-Royce/Sinfin A, Alpha Anodizing or
 JLR outranks anything said in the room.
 
+### Actionability (captured after follow-up questions)
+- On the 3 new leads, the participant did not initially give a specific
+  who/what/when — first response was a general statement that "missed
+  contracts can bring a lot of value" (engagement with the category, does
+  **not** pass the 4-part actionability test as defined).
+- On direct follow-up, he committed to **follow up on any lead where NRS can
+  find or already has a contact.** That is a real, operationally realistic
+  commitment — stronger than the first answer, though still a rule rather than
+  a named individual per lead.
+- Applying that rule to the cards as printed: **Rolls-Royce Sinfin A** (agent
+  AECOM) and **JLR Lode Lane** (agent WSP) both clear it directly. **Alpha
+  Anodizing has no named contact in the public record and would fall through
+  his own filter as it stands** — despite being the strongest discovery-quality
+  lead of the three. Action for Ben: chase a contact for Alpha Anodizing this
+  week (ring the occupier directly, or pull the applicant name from the East
+  Staffordshire portal) so the best lead doesn't get dropped on a technicality.
+
+### Willingness to pay
+Did not come up as a figure. Conversation was framed around value/category,
+not price. Per the locked WTP grading in `data-collection.md`, this is
+**🔴 None** — a real, discussed conversation, but not evidence of willingness
+to pay. Not a bad sign; just not data yet.
+
 ### Next
 1. Capture the actionability and WTP detail from this conversation while fresh.
 2. Second participant — Jason (commercial director, prior revealed spend on
