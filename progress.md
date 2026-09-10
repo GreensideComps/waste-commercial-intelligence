@@ -377,6 +377,30 @@ not price. Per the locked WTP grading in `data-collection.md`, this is
 **🔴 None** — a real, discussed conversation, but not evidence of willingness
 to pay. Not a bad sign; just not data yet.
 
+### 🎯 Confirmed — the AECOM call
+**FACT:** NRS called AECOM (agent on Rolls-Royce Sinfin A, Card 1) the same day
+as the manager conversation, specifically referencing that card. This is the
+clearest possible revealed-preference evidence in the whole test — a real
+commercial action, traceable to a specific artifact, same day, unprompted by a
+second nudge. This single fact outranks every verbal answer collected tonight,
+per the tie-breaker rule in `docs/validation/decision-rule.md`.
+
+### Jason's £600 — real, but a one-off, not a monthly figure
+**FACT:** Jason previously paid **£600 for a single, one-off** waste
+tonnage-by-county report.
+**INFERENCE (Ben's, not a quote from Jason):** Ben believes Jason's company
+would pay more, and more often, given its profitability.
+
+⚠️ **£600 one-off is not equivalent to £500/month** under the locked WTP
+grading — different economic signal entirely. What it does establish: real
+budget exists and has already been spent on adjacent data. It is a strong
+**anchor** for the next question, not yet a qualifying monthly figure.
+
+**Next, precise ask:** put the £600 back to Jason directly — *"you paid £600
+for one static report; what would a recurring version that kept finding leads
+like Rolls-Royce/Alpha Anodizing be worth to you monthly?"* — and get an actual
+number, not a sentiment.
+
 ### Next
 1. Capture the actionability and WTP detail from this conversation while fresh.
 2. Second participant — Jason (commercial director, prior revealed spend on
