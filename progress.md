@@ -290,3 +290,51 @@ verify in the room.
 2. Wait 14 days before judging — the revealed-preference test.
 3. Two consultation deadlines fall on 22–23 Sep 2026 if anything is to be acted
    on quickly.
+
+---
+
+## 2026-09-10 — First manager conversation run (n=1, provisional)
+
+**Status: 🔶 ONE interview complete. Not a decision point — the locked rule
+requires multiple participants and the 14-day revealed-preference window.
+Recorded here so it isn't lost, not as a verdict.**
+
+### Result (from manager pack, 5 cards)
+
+| Card | Known beforehand? |
+|---|---|
+| 1. Rolls-Royce Sinfin A | **New** |
+| 2. Alpha Anodizing | **New** |
+| 3. Mell Square (control) | Known — **control passed**, participant's other answers can be trusted |
+| 4. JLR Lode Lane | **New** |
+| 5. HS2 / EKFB | Known — expected; flagged in advance as the weakest lead on discovery |
+
+**3 of 4 non-control leads new.** Ahead of the pre-interview prior (guessed
+NRS probably already knew 3–5 of the original ten).
+
+### Unprompted finding — independent evidence for the core thesis
+NRS **does** subscribe to Barbour ABI or similar, but the participant described
+it unprompted as *"not a custom thing, more of a general marketplace."* This is
+the exact differentiation claim the whole idea rests on — Barbour captures, it
+doesn't interpret — confirmed by an actual user without being led there.
+
+### Still missing before this is decision-grade
+- **Actionability (4-part test) on the 3 new leads** — why/who/what/when not yet
+  captured for Cards 1, 2, 4.
+- **Any willingness-to-pay signal**, even informal — not yet captured.
+- **This is n=1.** Locked rule (`docs/validation/decision-rule.md`) requires
+  unanimity across multiple viewers per lead and ≥2 independent prices with one
+  ≥£500/mo — a single strong conversation cannot satisfy it alone, by design.
+  Guard against exactly this moment — the risk of over-weighting one good
+  result right after hearing it.
+
+### 14-day follow-up window
+**Started 2026-09-10. Review no earlier than ~2026-09-24.** Whether anyone
+actually contacts a counterparty on Rolls-Royce/Sinfin A, Alpha Anodizing or
+JLR outranks anything said in the room.
+
+### Next
+1. Capture the actionability and WTP detail from this conversation while fresh.
+2. Second participant — Jason (commercial director, prior revealed spend on
+   waste tonnage data) is the strongest remaining candidate per
+   `docs/validation/interview-packs.md` recruitment criteria.
