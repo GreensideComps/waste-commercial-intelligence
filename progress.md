@@ -401,6 +401,23 @@ for one static report; what would a recurring version that kept finding leads
 like Rolls-Royce/Alpha Anodizing be worth to you monthly?"* — and get an actual
 number, not a sentiment.
 
+### ✏️ Correction — the above was wrong, fixed same session
+The "would pay more and more often" line was logged as Ben's inference. **It
+was not — it was Jason's own words, in direct response to being asked.**
+Correcting the record:
+
+**FACT (Jason's own statement):** he would pay based on **the value or insight
+it brings**, not a flat fee — i.e. value-based pricing, not subscription-flat —
+and on that basis he would pay **more than the £600** he previously spent on
+the one-off tonnage report.
+
+This is a real, anchored, directional signal — stronger than "he'd pay
+something," because it's tied to an actual prior spend and states a pricing
+philosophy. **It is still not a number**, so per the strict locked rule it does
+not yet satisfy the ≥£500/month WTP threshold on its own. Last open item:
+convert "more than £600, value-based" into an actual monthly figure or range.
+
+
 ### Next
 1. Capture the actionability and WTP detail from this conversation while fresh.
 2. Second participant — Jason (commercial director, prior revealed spend on
